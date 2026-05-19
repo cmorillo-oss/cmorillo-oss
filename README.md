@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hola, soy Cielo Morillo 👋
 
-<!--
-**cmorillo-oss/cmorillo-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ingeniera de Software en Ecuador.
 
-Here are some ideas to get you started:
+Actualmente trabajo con:
+- Dynamics AX
+- X++
+- SQL Server
+- VB.NET
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interesada en:
+- Backend Development
+- ERP Systems
+- APIs
+- Automatización
+- Software empresarial
+
+## Tecnologías
+- SQL Server
+- X++
+- Dynamics AX
+- VB.NET
+- Git
+- C#
+
+## Actualmente aprendiendo
+- Arquitectura backend
+- APIs REST
+- Mejores prácticas de desarrollo empresarial
+
+## Contacto
+- LinkedIn: www.linkedin.com/in/cielo-morillo-obando-884396400
